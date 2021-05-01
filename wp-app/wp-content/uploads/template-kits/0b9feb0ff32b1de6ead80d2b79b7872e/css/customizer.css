@@ -1,0 +1,101 @@
+/* Custom Image Gallery */
+.envato-kit-34-gallery .elementor-image-gallery .gallery-item{
+	position:relative;
+	max-height: 400px;
+	overflow: hidden;
+	margin-bottom: 40px !important;
+}
+
+.envato-kit-34-gallery .elementor-image-gallery .gallery-item .gallery-caption{
+	position:absolute;
+	left:0;
+	z-index:2;
+  bottom: 30px;
+	opacity:0;
+	transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  /* Firefox 4 */
+  -webkit-transition: all 0.2s;
+  /* Safari and Chrome */
+  -o-transition: all 0.2s;
+}
+.envato-kit-34-gallery .elementor-image-gallery .gallery-item .gallery-caption em{
+	 display:block;
+	 margin-top:8px;
+	 opacity:.8;
+	 font-size:80%;
+}
+
+.envato-kit-34-gallery .elementor-image-gallery .gallery-item img{
+	transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  /* Firefox 4 */
+  -webkit-transition: all 0.2s;
+  /* Safari and Chrome */
+  -o-transition: all 0.2s;
+}
+
+.envato-kit-34-gallery .elementor-image-gallery .gallery-item:hover img{
+	opacity:.5;
+}
+
+.envato-kit-34-gallery .elementor-image-gallery .gallery-item:hover .gallery-caption{
+	bottom:80px;
+	opacity:1;
+}
+
+/* Hover Block */
+.hover_block {
+	 border:1px solid #ededed;
+	 border-radius:5px;
+	 padding:30px 10px;
+	 transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  /* Firefox 4 */
+  -webkit-transition: all 0.2s;
+  /* Safari and Chrome */
+  -o-transition: all 0.2s
+}
+.hover_block:hover{
+	 box-shadow: 0 0 30px rgba(0,0,0,.1);
+}
+
+.elementor-widget-container hr{
+	  border: 1px solid #eee;
+    border-width: 1px 0 0;
+    margin: 3em 0;
+}
+
+/*Newsletter*/
+.envato-kit-34-newsletter{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+.envato-kit-34-newsletter input[type="email"],
+.envato-kit-34-newsletter button{
+	height:40px;
+	padding:0px 15px;
+	border:1px solid #ddd;
+}
+.envato-kit-34-newsletter input[type="email"]{
+	width:500px;
+}
+@media(max-width:767px){
+	.envato-kit-34-newsletter input[type="email"]{
+	width:200px;
+   }
+}
+.envato-kit-34-newsletter button{
+	background:#4054b2;
+	border-color:#4054b2;
+	color:#fff;
+
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+/* Hover Background */
+.hover_background:hover{
+	border-color:#4054b2 !important;
+}

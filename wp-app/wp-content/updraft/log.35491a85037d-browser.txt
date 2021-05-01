@@ -1,0 +1,9 @@
+0000.030 (R) [notice] Looking for uploads archive: file name: backup_2021-01-14-0725_Friend_Engineering_Works_e660cd99b797-uploads.zip
+0000.030 (R) [notice] Archive is expected to be size: 16652.6 KB: OK
+0000.031 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.041 (R) [notice] Unpacking backup... (backup_2021-01-14-0725_Friend_Engineering_Works_e660cd99b797-uploads.zip, 16.3 MB)
+0000.242 (R) [notice] Unzip progress: 143 out of 143 files (20 MB, uploads/template-kits/index.php)
+0000.244 (R) [notice] Moving old data out of the way...
+0000.244 (R) [notice] Moving unpacked backup into place...
+0000.273 (R) [notice] Cleaning up rubbish...
+0000.302 (R) [notice] Restore successful!

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//friendengineeringworks.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://friendengineeringworks.com/elementor-hf/footer-service-shiv/</loc>
+		<lastmod>2021-04-04T06:22:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://friendengineeringworks.com/elementor-hf/footer/</loc>
+		<lastmod>2021-04-04T06:22:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://friendengineeringworks.com/elementor-hf/default-header/</loc>
+		<lastmod>2021-04-04T06:21:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://friendengineeringworks.com/wp-content/uploads/elementor/thumbs/cropped-cropped-friend-engineering-works-logo-90x90-1-p3uk3nv8it0lmt6racptcwxb18twfvmhzc7z6a34zo.png</image:loc>
+			<image:title><![CDATA[Friend Engineering works Logo]]></image:title>
+			<image:caption><![CDATA[Friend Engineering works Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://friendengineeringworks.com/elementor-hf/footer-service/</loc>
+		<lastmod>2021-01-29T01:52:06+00:00</lastmod>
+	</url>
+</urlset>
