@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//friendengineeringworks.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://friendengineeringworks.com/page-sitemap.xml</loc>
+		<lastmod>2021-03-23T02:39:17+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://friendengineeringworks.com/elementor-hf-sitemap.xml</loc>
+		<lastmod>2021-06-06T07:16:26+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

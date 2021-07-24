@@ -1,0 +1,19 @@
+[2021-07-17 08:17:22][notice]Add resume event succeeded.. arg1:1626509902 arg2:wpvivid_resume_schedule_event arg3:wpvivid-60eb2cf06a41d
+[2021-07-17 08:17:22][error]Task timed out.
+[2021-07-17 08:18:51][notice]Start backing up.
+[2021-07-17 08:18:51][notice]server info fcgi:Off max execution time: 900 wp version:5.6 php version:7.4.14 db version:8.0.22 php ini:safe_mode: memory_limit:256M memory_get_usage:6.67 MB memory_get_peak_usage:6.77 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2021-07-17 08:18:51][notice]Prepare to backup backup_merge files.
+[2021-07-17 08:18:51][notice]File number: 6
+[2021-07-17 08:18:51][notice]Start compressing backup_merge
+[2021-07-17 08:18:52][notice]Prepare to zip files. file: friendengineeringworks.com_wpvivid-60eb2cf06a41d_2021-07-11-17-40_backup_all.zip
+[2021-07-17 08:18:55][notice]Adding zip files completed.friendengineeringworks.com_wpvivid-60eb2cf06a41d_2021-07-11-17-40_backup_all.zip, filesize: 21.74 MB
+[2021-07-17 08:18:55][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/friendengineeringworks.com_wpvivid-60eb2cf06a41d_2021-07-11-17-40_backup_plugin.zip
+[2021-07-17 08:18:55][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/friendengineeringworks.com_wpvivid-60eb2cf06a41d_2021-07-11-17-40_backup_themes.zip
+[2021-07-17 08:18:55][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/friendengineeringworks.com_wpvivid-60eb2cf06a41d_2021-07-11-17-40_backup_db.zip
+[2021-07-17 08:18:55][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/friendengineeringworks.com_wpvivid-60eb2cf06a41d_2021-07-11-17-40_backup_uploads.zip
+[2021-07-17 08:18:55][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/friendengineeringworks.com_wpvivid-60eb2cf06a41d_2021-07-11-17-40_backup_core.zip
+[2021-07-17 08:18:55][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/friendengineeringworks.com_wpvivid-60eb2cf06a41d_2021-07-11-17-40_backup_content.zip
+[2021-07-17 08:18:55][notice]Compressing backup_merge completed
+[2021-07-17 08:18:55][notice]Backing up backup_merge completed.
+[2021-07-17 08:18:55][notice]Backup completed.
+[2021-07-17 08:18:55][notice]Backup succeeded.
